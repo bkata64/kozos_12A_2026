@@ -1,0 +1,10 @@
+*{
+    background-color: darkslategray;
+    color: white;
+}
+main{
+    background-image: url(../img/skeleton-running-past.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
